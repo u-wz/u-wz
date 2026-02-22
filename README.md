@@ -3,7 +3,6 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 - I'm a Software Engineer ( You Can Say ) <br />
-- British University In Egypt Student <br />
 - Uh well i code in my free-time<br />
 - Contribute when i feel about it
 
