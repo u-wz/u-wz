@@ -2,7 +2,6 @@
     Hi, I'm Yara AKA .uwz
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
----
 <img src="https://raw.githubusercontent.com/u-wz/u-wz/refs/heads/main/lyno-banner.png">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
