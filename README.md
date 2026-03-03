@@ -2,10 +2,6 @@
     Hi, I'm Yara AKA .uwz
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
-- I'm a Software Engineer ( You Can Say ) <br />
-- Uh well i code in my free-time<br />
-- Contribute when i feel about it
-
 ---
 <img src="https://raw.githubusercontent.com/u-wz/u-wz/refs/heads/main/lyno-banner.png">
 
