@@ -1,5 +1,5 @@
 <h2>
-    Hi, I'm Yara AKA .uwz
+    Hi, I'm uwz ( Spelt like Ooohze )
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 <img src="https://raw.githubusercontent.com/u-wz/u-wz/refs/heads/main/lyno-banner.png">
