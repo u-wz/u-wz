@@ -1,5 +1,5 @@
 <h2>
-    Hi, I'm uwz ( Spelt like Ooohze )
+    Hi, I'm uwz ( Spelt like Oohze )
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 <img src="https://raw.githubusercontent.com/u-wz/u-wz/refs/heads/main/lyno-banner.png">
@@ -15,11 +15,11 @@ fn main() {
     let yara = Developer {
         pronouns: "she/her",
         code: vec![
-            "Javascript", "Typescript", "HTML", "CSS", "Python", "C++", "Rust", "Bash",
+            "Javascript", "Typescript", "Python", "C", "C++", "Rust",
         ],
         tools: vec![
             "React", "Shadcn", "Next.js", "Bun", "Tailwindcss", "Pytorch", "Tensorflow", "Pola.rs",
-            "Github", "Numpy", "Sckit-learn", "Postgres", "Transformers", "Figma", "Notion"
+            "Github", "Numpy", "Sckit-learn", "Postgres", "Transformers", "Figma", "Anytype"
         ],
     };
 }
