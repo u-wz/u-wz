@@ -12,7 +12,7 @@
 
 ```rs
 fn main() {
-    let yara = Developer {
+    let uwz = Developer {
         pronouns: "she/her",
         code: vec![
             "Typescript", "Python", "C", "C++", "Rust",
