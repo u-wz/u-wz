@@ -15,7 +15,7 @@ fn main() {
     let uwz = Developer {
         pronouns: "she/her",
         code: vec![
-            "Typescript", "Python", "C", "C++", "Rust",
+            "Typescript", "Python", "C", "Rust",
         ],
         tools: vec![
             "React", "Shadcn", "Next.js", "Bun", "Tailwindcss", "Pytorch", "Tensorflow", "Pola.rs",
